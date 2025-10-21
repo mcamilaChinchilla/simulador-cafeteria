@@ -26,12 +26,15 @@ Una aplicación interactiva desarrollada en Python con Kivy que simula una cafet
 git clone https://github.com/mcamilaChinchilla/simulador-cafeteria.git
 cd simulador-cafeteria
 ```
-
 2. **Instala las dependencias:**
+```bash
 pip install -r requirements.txt
+```
 
-3. **Ejecuta la aplicación:**
+4. **Ejecuta la aplicación:**
+```bash
 python main.py
+```
 
 ## 🎮 Cómo Usar
 
