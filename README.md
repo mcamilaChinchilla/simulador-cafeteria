@@ -25,6 +25,7 @@ Una aplicación interactiva desarrollada en Python con Kivy que simula una cafet
 ```bash
 git clone https://github.com/mcamilaChinchilla/simulador-cafeteria.git
 cd simulador-cafeteria
+```
 
 2. **Instala las dependencias:**
 pip install -r requirements.txt
@@ -32,7 +33,8 @@ pip install -r requirements.txt
 3. **Ejecuta la aplicación:**
 python main.py
 
-##🎮 Cómo Usar
+## 🎮 Cómo Usar
+
 - Selecciona tu café favorito de los 5 tipos disponibles
 - Personaliza añadiendo leche o azúcar según tu preferencia
 - Observa el proceso de preparación con imágenes y sonidos
