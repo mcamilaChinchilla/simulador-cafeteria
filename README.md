@@ -42,3 +42,8 @@ python main.py
 - Personaliza añadiendo leche o azúcar según tu preferencia
 - Observa el proceso de preparación con imágenes y sonidos
 - Disfruta de tu bebida virtual preparada a tu gusto
+
+## 📸 Capturas de Pantalla
+
+![Interfaz Principal](screenshots/main-screen.png)
+![Selección de Café](screenshots/coffee-selection.png)
